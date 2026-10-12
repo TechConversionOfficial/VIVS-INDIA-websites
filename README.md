@@ -1,11 +1,20 @@
-
 # VIVS India Website: An Investor-Side Digital Platform for NRI Investment Decisions
 
 **VIVS India is an India-focused opportunity-intelligence and investment-advisory platform serving Non-Resident Indians (NRIs) and overseas investors. Its [website](https://vivsindia.com/) appears in the [Tech Conversion](https://techconversion.tech/) portfolio as an investment-advisory digital experience. The site is organised around a clear distinction: instead of beginning with property promotion, it starts with the investor's objectives, available evidence, legal position, commercial risks and an eventual exit.**
 
-![VIVS India homepage and evidence-led investor positioning](images/vivs-india-homepage-longform.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/vivs-india-website-mockup-new.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/vivs-india-website-mockup-new.webp" alt="VIVS India investor advisory website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Original saved VIVS India long-form homepage design. This is a project design asset; it is not an independently dated browser capture or proof that every section pictured is deployed unchanged.*
+<p align="center">
+  <a href="https://vivsindia.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/vivs-india-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -18,7 +27,8 @@
 | **Project type** | Investment advisory and professional-services website |
 | **Key offerings** | Opportunity intelligence, investor protection, legal review, commercial assessment, exit planning, real estate private equity, PMS, AIFs and structured products |
 | **Related legal practice** | [VIVS Legal](https://vivs.in/) — a separate law-firm website and service identity |
-| **Technical scope** | Public content, navigation and enquiry interfaces were reviewed; the production stack, lead routing, analytics and third-party integrations were not independently audited |
+| **GitHub repository** | [TechConversionOfficial/VIVS-INDIA-websites](https://github.com/TechConversionOfficial/VIVS-INDIA-websites) |
+| **Technical scope** | Public content, navigation and enquiry interfaces were reviewed; production stack, lead routing, analytics and third-party integrations were not independently audited |
 
 ## About VIVS India
 
@@ -34,7 +44,7 @@ The current service architecture includes:
 - **Verified opportunities:** opportunities organised by category and the status of supporting evidence, subject to eligibility and final transaction-specific checks.
 - **Ongoing perspective:** monitoring and exit planning according to the scope of a client engagement.
 
-The public website's contact information lists **Office 429, Haware Intelligentia Park, Plot No. 33, Sector 24, Sanpada–Turbhe Road, Navi Mumbai 400783**; **+91 82918 49797** and **swanand.pandit@vivs.in**. These are *published contact details*, not a verification of the legal registration or regulatory permissions of every service provider involved.
+The public website lists **Office 429, Haware Intelligentia Park, Plot No. 33, Sector 24, Sanpada–Turbhe Road, Navi Mumbai 400783**, **+91 82918 49797** and **swanand.pandit@vivs.in**. These are published contact details, not verification of the legal registration or regulatory permissions of every service provider involved.
 
 ## The Challenge
 
@@ -44,110 +54,62 @@ A credible advisory website therefore needs to do more than list investments. It
 
 1. **What does VIVS examine before discussing an opportunity?**
 2. **What is independently assessed, and what remains unverified or conditional?**
-3. **Which investment routes could fit the person's objectives and constraints?**
+3. **Which investment routes could fit the investor's objectives and constraints?**
 4. **What happens before, during and after a potential investment?**
 5. **How can an overseas investor begin a confidential discussion?**
 
-The website's published content and saved design concepts show an attempt to organise these questions into distinct journeys. This is the visible communication challenge, **not an audited assessment of any previous version of the site**.
+The website's public structure and supplied Tech Conversion project media organise these questions into distinct journeys. This is the communication challenge addressed by the digital experience, not an audited assessment of any previous production version.
 
 ## How Tech Conversion Presented the Investment Experience
 
-The following points describe **the live site's current public structure and original saved project design material**. They do not claim that every graphic was deployed or that internal due-diligence procedures and regulatory compliance were independently inspected.
+The following points describe the site's public structure and documented project positioning. They do not claim that internal due-diligence processes, regulatory permissions, investment outcomes or third-party integrations were independently audited.
 
-1. **Lead with an investor-side distinction.** The current homepage opens with the idea that VIVS is on the investor's side of the table. It contrasts the sales presentation of an asset with legal position, valuation, demand, risk, liquidity and planned exit.
-2. **Give complex financial choices a common framework.** The [Investment Solutions](https://vivsindia.com/investment-solutions/) page organises real estate private equity, PMS, AIFs and structured products around capital objectives, risk, horizon and suitability rather than treating every product as interchangeable.
-3. **Separate access from verification.** The site's verification narrative covers legal checks, commercial diligence, risk evaluation, counterparties and exit assessment before an investment decision. The [Investor Protection](https://vivsindia.com/investor-protection/) page explicitly says that the process does **not** guarantee returns, eliminate fraud or make an investment risk-free.
-4. **Give 'verified' a defined meaning.** The [Verified Opportunities](https://vivsindia.com/verified-opportunities/) page explains evidence reviewed, legal position considered, commercial assessment and exit conditions. It identifies stages such as Under Review, Evidence Pending, Qualified for Consideration and Not Progressed.
-5. **Present a journey, not only a catalogue.** The homepage maps **Understand → Define → Identify → Verify → Recommend → Execute → Monitor → Exit**. This creates a narrative from initial investor mandate through monitoring and possible exit, without claiming any particular client has completed it.
-6. **Explain infrastructure opportunities carefully.** The published content references transport and growth corridors, including emerging real-estate locations. The website's stated assessment considers actual connectivity, jobs, supply, demand, project execution and liquidity rather than relying on a new airport or road headline alone.
-7. **Use decision-oriented enquiry actions.** Calls to action include viewing verified opportunities, requesting the opportunity list, booking a verification call and defining an investment mandate. The homepage form asks about the investor's objective, capital range, investment type and horizon; successful delivery to a CRM has not been independently tested.
-8. **Give legal due diligence a distinct role.** The website describes a **VIVS Legal Verification** layer. The related [VIVS Legal website](https://vivs.in/) is a different brand and website, and their functions should not be merged in the case-study wording.
-9. **Present a credible, restrained design system.** Saved layouts use deep navy, warm metallic accents, premium photography, document/analysis imagery and structured cards. Mega-menu and long-page explorations aim to make complex services easier to scan.
-10. **Make important limitations visible.** The site's strongest disclosures distinguish review from approval, verification from a guarantee, and opportunity access from investor suitability. This language is essential in a high-stakes financial context.
+1. **Lead with an investor-side distinction.** The homepage frames VIVS as being on the investor's side of the table, contrasting sales presentation with legal position, valuation, demand, risk, liquidity and exit planning.
+2. **Give complex financial choices a common framework.** The [Investment Solutions](https://vivsindia.com/investment-solutions/) page organises real estate private equity, PMS, AIFs and structured products around capital objectives, risk, horizon and suitability.
+3. **Separate access from verification.** The site's verification narrative covers legal checks, commercial diligence, risk evaluation, counterparties and exit assessment. The [Investor Protection](https://vivsindia.com/investor-protection/) page explicitly states that the process does **not** guarantee returns, eliminate fraud or make an investment risk-free.
+4. **Give “verified” a defined meaning.** The [Verified Opportunities](https://vivsindia.com/verified-opportunities/) page describes evidence review, legal position, commercial assessment and exit conditions, with statuses such as Under Review, Evidence Pending, Qualified for Consideration and Not Progressed.
+5. **Present a journey, not only a catalogue.** The homepage maps **Understand → Define → Identify → Verify → Recommend → Execute → Monitor → Exit**. This explains a process without asserting that any particular investor has completed it.
+6. **Explain infrastructure opportunities carefully.** The published content references transport and growth corridors while emphasising actual connectivity, jobs, supply, demand, project execution and liquidity rather than relying on infrastructure headlines alone.
+7. **Use decision-oriented enquiry actions.** Calls to action include viewing verified opportunities, requesting an opportunity list, booking a verification call and defining an investment mandate. The enquiry process may capture objectives, capital range, investment type and horizon; successful CRM delivery has not been independently tested.
+8. **Give legal due diligence a distinct role.** The site describes a **VIVS Legal Verification** layer. The related [VIVS Legal website](https://vivs.in/) is a separate brand and website and should not be merged into VIVS India in this case study.
+9. **Present a restrained design system.** Deep navy, warm metallic accents, premium photography, document-analysis imagery and structured cards support a serious investor-facing presentation.
+10. **Make limitations visible.** Review is not approval, verification is not a guarantee, and opportunity access is not the same as investor suitability. Those distinctions are essential in a high-stakes financial context.
 
-## Original Project Visuals
+## Website and Project Images
 
-The files below are **13 VIVS India-specific assets recovered from the saved Tech Conversion project library and converted to WebP**. They include website-page presentations, navigation concepts and illustrative branded campaign imagery. **None is represented here as an independently authenticated current browser screenshot, a real investment, a completed transaction or a verified investment outcome.** Some are alternate design treatments of related content.
+### Official Website Mockup
 
-### 1. Long-Form Homepage Design
+The following Tech Conversion portfolio mockup presents VIVS India as a premium investor-side advisory and opportunity-intelligence platform.
 
-![VIVS India long-form website design](images/vivs-india-homepage-longform.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/vivs-india-website-mockup-new.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/vivs-india-website-mockup-new.webp" alt="VIVS India responsive NRI investment advisory website mockup" width="100%" />
+  </a>
+</p>
 
-An extended investor-focused homepage concept with the positioning, solutions, process and consultation sections.
+*Click the image to open the full-resolution mockup.*
 
-### 2. Investor-Side Advantage
+### Full-Length Homepage Screenshot
 
-![VIVS India investor-side advantage website design](images/vivs-india-investor-side-advantage.webp)
+The following image is the complete VIVS India homepage capture supplied through Tech Conversion's project media.
 
-Saved page sections exploring what the market presents versus the scrutiny required before a capital decision.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/vivs-india-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/vivs-india-new-website-home-page.webp" alt="VIVS India complete investor advisory website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-### 3. Clarity for NRI Investment
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
-![VIVS India NRI investment clarity web layout](images/vivs-india-nri-investment-clarity.webp)
+### Image Provenance
 
-A design exploration combining verification, investment categories and the rationale for an investor-first approach.
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's 13 local `images/...` project visuals and the `IMAGE-SOURCES.md` dependency.
 
-### 4. Private Investment Office Homepage
+These visuals document the website presentation, but they are **not evidence of independently verified investment performance, due-diligence quality, legal outcomes, regulatory approval, assets advised, transaction volume, lead growth, enquiry conversion or future returns**.
 
-![VIVS India private investment office homepage concept](images/vivs-india-private-investment-office.webp)
-
-A presentation of the private-office model, key service areas and decision criteria.
-
-### 5. About and Investment Journey
-
-![VIVS India About Us and investment journey layout](images/vivs-india-about-investment-journey.webp)
-
-An About-page design, including the investor relationship, approach and stages of engagement.
-
-### 6. Private Investment and Trust
-
-![VIVS India investment trust and private office web sections](images/vivs-india-private-investment-trust.webp)
-
-Website section concepts linking on-ground assessment, responsible engagement and investor communication.
-
-### 7. Investment Solutions Mega Menu
-
-![VIVS India investment solutions mega menu design](images/vivs-india-investment-solutions-mega-menu.webp)
-
-A saved navigation design separating real estate, PMS, AIFs, structured investments and independent verification. Menu labels in the artwork may differ from the site's currently published navigation.
-
-### 8. Contact and Investment Enquiry
-
-![VIVS India contact and investment enquiry page concept](images/vivs-india-contact-landing-page.webp)
-
-A longer contact-page concept showing how overseas investors can initiate a private conversation.
-
-### 9. Why VIVS India
-
-![VIVS India questions before investing website design](images/vivs-india-why-questions-before-investment.webp)
-
-A saved page focused on due-diligence questions, verification standards and investor requirements.
-
-### 10. Exit-Planning Visual
-
-![VIVS India exit planning conceptual artwork](images/vivs-india-exit-planning-visual.webp)
-
-**Illustrative campaign artwork** with the message that exit conditions should be considered before entry. It is not a deployed website screenshot or evidence of a specific project's exit value.
-
-### 11. Investor-Side Opportunity Hero
-
-![VIVS India investor side opportunity visual concept](images/vivs-india-opportunity-hero-visual.webp)
-
-**Illustrative campaign artwork** expressing the firm's investor-side perspective.
-
-### 12. Investment Journey Visual
-
-![VIVS India investment journey illustration](images/vivs-india-investment-journey-visual.webp)
-
-**Illustrative artwork** presenting a journey from first enquiry through verification, participation, monitoring and exit.
-
-### 13. Verification Lens Visual
-
-![VIVS India verification and due diligence conceptual visual](images/vivs-india-verification-lens-visual.webp)
-
-**Illustrative artwork** contrasting marketing presentations with documentation, commercial assessment and risk review.
-
-See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for the original filenames and authenticity classification of each image.
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key Investor Journeys
 
@@ -157,7 +119,7 @@ See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for the original filenames and authenti
 | What is the firm's published background? | [About Us](https://vivsindia.com/about-us/) |
 | What investment categories are discussed? | [Investment Solutions](https://vivsindia.com/investment-solutions/) |
 | What does the verification process address? | [Investor Protection](https://vivsindia.com/investor-protection/) |
-| What is meant by a 'verified' opportunity? | [Verified Opportunities](https://vivsindia.com/verified-opportunities/) |
+| What is meant by a “verified” opportunity? | [Verified Opportunities](https://vivsindia.com/verified-opportunities/) |
 | How is real estate private equity evaluated? | [Real Estate Private Equity](https://vivsindia.com/real-estate-private-equity/) |
 | How are professional portfolio strategies assessed? | [Portfolio Management Services](https://vivsindia.com/portfolio-management-services/) |
 | How are alternative funds reviewed? | [Alternative Investment Funds](https://vivsindia.com/alternative-investment-funds-aifs/) |
@@ -169,27 +131,29 @@ See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for the original filenames and authenti
 
 These are **review criteria**, not claims that Tech Conversion performed a formal audit of financial advice, compliance or investment outcomes.
 
-- **[Core Web Vitals](https://web.dev/articles/vitals):** measure loading, interaction responsiveness and layout stability of large, image-heavy sections and mobile navigation.
-- **[WCAG 2.2 Level AA](https://www.w3.org/TR/WCAG22/):** assess readable contrast, keyboard navigation, focus indicators, accessible forms, image alternatives and mobile menu behaviour.
+- **[Core Web Vitals](https://web.dev/articles/vitals):** measure loading, interaction responsiveness and layout stability of image-heavy sections and mobile navigation.
+- **[WCAG 2.2 Level AA](https://www.w3.org/TR/WCAG22/):** assess readable contrast, keyboard navigation, focus indicators, accessible forms, image alternatives and mobile-menu behaviour.
 - **[Google Search Essentials](https://developers.google.com/search/docs/essentials):** evaluate accurate titles, meaningful service pages, internal linking and expert-reviewed financial content.
-- **[Schema.org](https://schema.org/):** use accurate Organisation, Service, BreadcrumbList and other appropriate structured data only where supported by factual, up-to-date information.
+- **[Schema.org](https://schema.org/):** use Organisation, Service, BreadcrumbList and other structured data only where supported by factual, current information.
 - **Financial regulation and suitability:** verify which legal entity performs each regulated or unregulated activity, required permissions/registrations, investor eligibility, cross-border restrictions, fees and risk disclosures. Do not imply that VIVS itself manages a PMS or AIF when a distinct registered provider supplies that product.
-- **No guaranteed outcomes:** neither 'verified' nor 'investor protected' should imply guaranteed returns, risk elimination, regulatory approval or certainty of a future exit.
+- **No guaranteed outcomes:** neither *verified* nor *investor protected* should imply guaranteed returns, risk elimination, regulatory approval or certainty of a future exit.
 - **Data privacy:** investor enquiry forms may capture identity, residence, financial objectives and capital range; review consent, retention, access control and applicable data-protection obligations.
-- **Project and track-record accuracy:** confirm the basis and dates for website-published experience, client, project, retention or transaction-value figures before reproducing them as externally verified metrics.
-- **Founder and legal-document accuracy:** at the time of this review, the homepage named **Swanand Pandit** as founder/managing partner, whereas About Us named **Sandeep Verma** as founder. The site's Terms of Service described cybersecurity/IT services rather than the current investment website positioning. These are **content discrepancies requiring client confirmation**; do not guess the correct attribution or automatically repurpose the old terms.
+- **Project and track-record accuracy:** confirm the basis and dates for experience, client, project, retention or transaction-value figures before reproducing them as externally verified metrics.
+- **Founder and legal-document accuracy:** at the time of the documented review, the homepage named **Swanand Pandit** as founder/managing partner, whereas About Us named **Sandeep Verma** as founder. The site's Terms of Service also described cybersecurity/IT services rather than the current investment positioning. These discrepancies require client confirmation; this README does not guess which attribution or document is current.
 
 ## Before and After
 
-Several saved project assets document different VIVS India homepage, navigation, About, contact and investment-journey treatments. They illustrate the evolution of a premium investor-facing information architecture. However, there is **no independently dated, authenticated pair of previous and current production screenshots** in this package.
+A full-page VIVS India homepage screenshot is available and included above. However, **no authenticated historical BEFORE screenshot or dated old-versus-new production comparison was supplied for this project**, so this README does not manufacture a redesign comparison.
 
-For that reason, this case study makes **no claim of proven redesign uplift**. A formal before-and-after should use approved screenshots with dates, deployment history and, if available, comparable traffic or enquiry data.
+Earlier saved design treatments document the evolution of the investor-facing information architecture, but they should not be treated as a verified production timeline.
+
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
-**Verified:** Tech Conversion publicly includes VIVS India among its delivered website projects. The current VIVS India site publishes distinct investment-solution, opportunity, verification, About and Contact sections, along with investment-mandate and consultation enquiry interfaces. Saved project artwork documents multiple VIVS India-specific website and campaign concepts.
+**Verified:** Tech Conversion publicly includes VIVS India among its delivered website projects. The VIVS India site publishes distinct investment-solution, opportunity, verification, About and Contact sections, along with investment-mandate and consultation enquiry interfaces. The supplied project media provides an official responsive mockup and a complete homepage presentation for this portfolio record.
 
-**Published by the client but not independently audited:** claims about years of market experience, client numbers, projects evaluated, financial exposure and retention; investment review statuses; legal and regulatory scope; the quality or outcome of any individual investment.
+**Published by the client but not independently audited:** claims about years of market experience, client numbers, projects evaluated, financial exposure and retention; investment-review statuses; legal and regulatory scope; and the quality or outcome of any individual investment.
 
 **Not independently measured:** lead growth, qualified NRI enquiries, website traffic, booked consultations, organic rankings, form submissions, page-speed improvements, assets advised or transaction volumes resulting from this website. No made-up percentage, conversion rate or investment outcome is attributed to Tech Conversion.
 
@@ -198,7 +162,16 @@ For that reason, this case study makes **no claim of proven redesign uplift**. A
 [Tech Conversion](https://techconversion.tech/) is a website development and digital marketing agency based in Chennai, India, working on corporate websites, professional-services platforms, ecommerce, SEO and digital experiences.
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
-- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies/)
+- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public website-design and agency portfolio record**, not investment advice, an investment solicitation, proof of any regulatory registration or a release of confidential source code or investor records. It contains no private investment briefs, client details, non-public legal findings, financial mandates, personal lead submissions or credentials. VIVS India, VIVS Legal, project names and third-party branding remain with their respective rights holders.
+## Repository Scope and Image Credits
+
+This repository is a **public website-design and agency portfolio record**, not investment advice, an investment solicitation, proof of regulatory registration or a release of confidential source code or investor records.
+
+It contains no private investment briefs, client details, non-public legal findings, financial mandates, personal lead submissions or credentials. The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. VIVS India, VIVS Legal, project names and third-party branding remain with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
